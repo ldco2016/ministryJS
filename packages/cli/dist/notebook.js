@@ -1,1 +1,1 @@
-[{"content":"tyuiopoiuhyg","type":"text","id":"5afv1"},{"content":"const server","type":"code","id":"6htbg"}]
+[{"content":"Write out some documentation\n1) Numbered item\n\n[Add a Link](url)","type":"text","id":"5afv1"},{"content":"const App = () => {\n  return <h1>Hi there</h1>\n};\n\nshow(App);","type":"code","id":"4l5ng"},{"content":"import axios from 'axios';\nimport 'bulma/css/bulma.css';\n\naxios.get('http://jsonplaceholder.typicode.com/users/1').then(({data}) => show(data.name));","type":"code","id":"6htbg"}]
