@@ -2,7 +2,9 @@
   "name": "@ministryjs/local-api",
   "version": "1.0.0",
   "description": "",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public"
   },
@@ -21,9 +23,9 @@
     "typescript": "^4.3.2"
   },
   "dependencies": {
+    "@ministryjs/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "http-proxy-middleware": "^2.0.1",
-    "@ministryjs/local-client": "^0.1.0"
+    "http-proxy-middleware": "^2.0.1"
   }
 }
