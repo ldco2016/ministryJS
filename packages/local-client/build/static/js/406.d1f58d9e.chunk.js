@@ -1,2 +1,0 @@
-(this.webpackJsonpministryjs=this.webpackJsonpministryjs||[]).push([[406],{578:function(s,a){Prism.languages.t4=Prism.languages["t4-cs"]=Prism.languages["t4-templating"].createT4("csharp")}}]);
-//# sourceMappingURL=406.d1f58d9e.chunk.js.map

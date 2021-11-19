@@ -1,2 +1,0 @@
-(this.webpackJsonpministryjs=this.webpackJsonpministryjs||[]).push([[169],{341:function(a,s){Prism.languages.hpkp={directive:{pattern:/\b(?:(?:includeSubDomains|preload|strict)(?: |;)|pin-sha256="[a-zA-Z\d+=/]+"|(?:max-age|report-uri)=|report-to )/,alias:"keyword"},safe:{pattern:/\b\d{7,}\b/,alias:"selector"},unsafe:{pattern:/\b\d{1,6}\b/,alias:"function"}}}}]);
-//# sourceMappingURL=169.b1e6845e.chunk.js.map
