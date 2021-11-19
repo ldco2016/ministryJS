@@ -1,6 +1,6 @@
 {
   "name": "ministryjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ministryjs/local-client": "^1.0.0"
+    "@ministryjs/local-client": "^1.0.1"
   },
   "devDependencies": {
-    "@ministryjs/local-api": "^1.0.0",
+    "@ministryjs/local-api": "^1.0.1",
     "@types/node": "^15.12.2",
     "commander": "^7.2.0",
     "esbuild": "0.8.26",
